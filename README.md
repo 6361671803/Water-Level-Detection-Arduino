@@ -1,6 +1,6 @@
 # Water-Level-Detection-Arduino
 This repository contains two Arduino programs for detecting water level using a water level sensor and displaying the result on a 16×2 I2C LCD.
-# video link of project https://youtu.be/OkSkXHpGe5k
+# video link of project 
 
 ## 🔧 Hardware Used
 - Arduino UNO / UNO SMD
